@@ -1,0 +1,25 @@
+body{
+  background-color: #e5ffff;
+}
+hr{
+
+  border-top-style: dotted;
+
+  border-left-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-color: grey;
+  border-width: 10px;
+
+  width:5%;
+}
+h1{
+  color: #59cec2
+}
+h3{
+  color: #66BFBF
+}
+img:hover{
+  height: 400px;
+  width:400px;
+}
